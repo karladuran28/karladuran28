@@ -3,10 +3,10 @@
 Learning new stuff everyday
 
 - 🌱 I’m currently learning ...
-Flutter with Node.js
+ReactJS, NodeJS, AWS Services, Artificial Intelligence!
 
 - 💞️ I’m looking to collaborate on ...
-Nothing yet
+Front-end development projects!
 
 - 📫 How to reach me ...
 Only by email! kaduran1998@gmail.com
